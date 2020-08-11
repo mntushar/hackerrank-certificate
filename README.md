@@ -1,1 +1,1 @@
-# hackerrank-certificate
+# Hackerrank Certificate Test Solve
